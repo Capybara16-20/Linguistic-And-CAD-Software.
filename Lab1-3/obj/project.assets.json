@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1-3\\Lab1-3.csproj",
+      "projectName": "Lab1-3",
+      "projectPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1-3\\Lab1-3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1-3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\Lab1.csproj": {}
+    "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\Lab1.csproj": {
+    "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\Lab1.csproj",
-        "projectName": "Lab1",
-        "projectPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab4\\Lab4.csproj",
+        "projectName": "Lab4",
+        "projectPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab4\\Lab4.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Папка\\6 семестр\\Лингвистическое и программное обеспечение САПР\\Labs\\Linguistic-And-CAD-Software..git\\Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

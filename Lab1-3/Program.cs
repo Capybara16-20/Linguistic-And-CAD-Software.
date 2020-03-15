@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Lab1
+namespace Lab1_3
 {
     class Program
     {
@@ -40,7 +40,7 @@ namespace Lab1
                 {
                     I.Add(0);
                 }
-                
+
             }
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("AL: ");
