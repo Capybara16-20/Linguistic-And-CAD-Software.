@@ -34,7 +34,7 @@ namespace Lab5_3
         public static Tree CreateTree(int[,] keys)
         {
             int length = keys.GetLength(0);
-            Tree tree = new Tree(keys, new int[length], new int[length], 1);
+            Tree tree = new Tree(keys, new int[length], new int[length]);
             for (int i = 1; i < length; i++)
             {
                 int currentIndex = 0;
@@ -105,13 +105,11 @@ namespace Lab5_3
             public int[,] keys;
             public int[] leftChilds;
             public int[] rightChilds;
-            public int n;
-            public Tree(int[,] keys, int[] leftChilds, int[] rightChilds, int n)
+            public Tree(int[,] keys, int[] leftChilds, int[] rightChilds)
             {
                 this.keys = keys;
                 this.leftChilds = leftChilds;
                 this.rightChilds = rightChilds;
-                this.n = n;
             }
         }
     }

@@ -37,8 +37,6 @@ namespace Lab5_1
         {
             while (high >= low)
             {
-                /*double div = (double)(low + high) / 2;
-                int p = (int)Math.Round(div, MidpointRounding.AwayFromZero);*/
                 int p = (low + high) / 2;
                 if (keys[p, 0] == key)
                 {
